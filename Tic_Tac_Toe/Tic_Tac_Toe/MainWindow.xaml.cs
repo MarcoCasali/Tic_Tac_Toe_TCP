@@ -302,6 +302,7 @@ namespace Tic_Tac_Toe
                 if (port < 0 || port > 65535)
                     throw new Exception("Porta non esistente.");
 
+                _isHost = false;
                 btnHost.IsEnabled = false;
                 btnConnect.IsEnabled = false;
                 lblChar.Content = "Your char: O";

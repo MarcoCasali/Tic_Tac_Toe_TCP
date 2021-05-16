@@ -62,9 +62,8 @@ namespace Tic_Tac_Toe {
         [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "4.0.0.0")]
         public static void Main() {
             Tic_Tac_Toe.App app = new Tic_Tac_Toe.App();
-            app.InitializeComponent();           
-            app.Run();           
-
+            app.InitializeComponent();
+            app.Run();
         }
     }
 }
