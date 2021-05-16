@@ -1,0 +1,15 @@
+C:\Users\Marco\source\repos\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.exe.config
+C:\Users\Marco\source\repos\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.exe
+C:\Users\Marco\source\repos\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.pdb
+C:\Users\Marco\source\repos\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csprojAssemblyReference.cache
+C:\Users\Marco\source\repos\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\MainWindow.g.cs
+C:\Users\Marco\source\repos\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\App.g.cs
+C:\Users\Marco\source\repos\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe_MarkupCompile.cache
+C:\Users\Marco\source\repos\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe_MarkupCompile.lref
+C:\Users\Marco\source\repos\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\MainWindow.baml
+C:\Users\Marco\source\repos\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.g.resources
+C:\Users\Marco\source\repos\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\Marco\source\repos\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csproj.GenerateResource.cache
+C:\Users\Marco\source\repos\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csproj.CoreCompileInputs.cache
+C:\Users\Marco\source\repos\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.exe
+C:\Users\Marco\source\repos\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.pdb
